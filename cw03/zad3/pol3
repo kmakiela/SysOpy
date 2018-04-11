@@ -1,0 +1,11 @@
+echo UNO
+ls -ali
+echo BOLOGNESE
+cat inf.c
+./inf
+echo DOS
+cat mem.c
+./mem
+cat break.c
+./break
+echo TRES

@@ -1,0 +1,5 @@
+ls -al
+echo UNO
+cat break.c
+./break
+echo DOS
