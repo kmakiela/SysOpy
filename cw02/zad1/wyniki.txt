@@ -1,0 +1,114 @@
+Czas sortowania systemowego 3000 rekordów 4-bajtowych:
+Realtime: 17.901510s
+Usertime: 2.868249s
+Systemtime: 15.32713s
+Czas sortowania 3000 rekordów 4-bajtowych z funkcjami bibliotecznymi:
+Realtime: 9.961699s
+Usertime: 2.192244s
+Systemtime: 7.769105s
+Czas kopiowania 3000 rekordów 4-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.271s
+Usertime: 0.49s
+Systemtime: 0.222s
+Czas kopiowania systemowego 3000 rekordów 4-bajtowych:
+Realtime: 0.10131s
+Usertime: 0.0s
+Systemtime: 0.10130s
+Czas sortowania systemowego 4000 rekordów 4-bajtowych:
+Realtime: 32.182139s
+Usertime: 4.987244s
+Systemtime: 27.190575s
+Czas sortowania 4000 rekordów 4-bajtowych z funkcjami bibliotecznymi:
+Realtime: 17.602323s
+Usertime: 3.935564s
+Systemtime: 13.666207s
+Czas kopiowania 4000 rekordów 4-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.390s
+Usertime: 0.71s
+Systemtime: 0.321s
+Czas kopiowania systemowego 4000 rekordów 4-bajtowych:
+Realtime: 0.12024s
+Usertime: 0.3s
+Systemtime: 0.12012s
+Czas sortowania systemowego 2000 rekordów 512-bajtowych:
+Realtime: 8.415872s
+Usertime: 1.231864s
+Systemtime: 7.183291s
+Czas sortowania 2000 rekordów 512-bajtowych z funkcjami bibliotecznymi:
+Realtime: 5.135974s
+Usertime: 1.195942s
+Systemtime: 3.939818s
+Czas kopiowania 2000 rekordów 512-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.1702s
+Usertime: 0.1702s
+Systemtime: 0.0s
+Czas kopiowania systemowego 2000 rekordów 512-bajtowych:
+Realtime: 0.6021s
+Usertime: 0.2232s
+Systemtime: 0.3788s
+Czas sortowania systemowego 1000 rekordów 512-bajtowych:
+Realtime: 4.67505s
+Usertime: 0.675881s
+Systemtime: 3.391441s
+Czas sortowania 1000 rekordów 512-bajtowych z funkcjami bibliotecznymi:
+Realtime: 2.628198s
+Usertime: 0.572004s
+Systemtime: 2.56058s
+Czas kopiowania 1000 rekordów 512-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.2011s
+Usertime: 0.363s
+Systemtime: 0.1649s
+Czas kopiowania systemowego 1000 rekordów 512-bajtowych:
+Realtime: 0.7540s
+Usertime: 0.0s
+Systemtime: 0.7541s
+Czas kopiowania 1000 rekordów 4096-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.6912s
+Usertime: 0.0s
+Systemtime: 0.6913s
+Czas kopiowania systemowego 1000 rekordów 4096-bajtowych:
+Realtime: 0.6042s
+Usertime: 0.0s
+Systemtime: 0.6042s
+Czas kopiowania 1500 rekordów 4096-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.13119s
+Usertime: 0.203s
+Systemtime: 0.12916s
+Czas kopiowania systemowego 1500 rekordów 4096-bajtowych:
+Realtime: 0.6968s
+Usertime: 0.0s
+Systemtime: 0.6968s
+Czas sortowania systemowego 1500 rekordów 8192-bajtowych:
+Realtime: 7.813937s
+Usertime: 0.752351s
+Systemtime: 7.61344s
+Czas sortowania 1500 rekordów 8192-bajtowych z funkcjami bibliotecznymi:
+Realtime: 8.68346s
+Usertime: 1.12028s
+Systemtime: 7.56001s
+Czas kopiowania 1500 rekordów 8192-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.16548s
+Usertime: 0.95s
+Systemtime: 0.16454s
+Czas kopiowania systemowego 1500 rekordów 8192-bajtowych:
+Realtime: 0.13921s
+Usertime: 0.0s
+Systemtime: 0.13922s
+Czas sortowania systemowego 1000 rekordów 8192-bajtowych:
+Realtime: 4.916817s
+Usertime: 0.508118s
+Systemtime: 4.408455s
+Czas sortowania 1000 rekordów 8192-bajtowych z funkcjami bibliotecznymi:
+Realtime: 4.930307s
+Usertime: 0.575694s
+Systemtime: 4.354403s
+Czas kopiowania 1000 rekordów 8192-bajtowych z wykorzystaniem funkcji bibliotecznych:
+Realtime: 0.20204s
+Usertime: 0.35s
+Systemtime: 0.20170s
+Czas kopiowania systemowego 1000 rekordów 8192-bajtowych:
+Realtime: 0.7808s
+Usertime: 0.0s
+Systemtime: 0.7808s
+
+Można wyciągnąć wnioski, że dla krótszych rekordów czasy wykonywania są zdecydowanie krótsze przy użyciu funkcji systemowych, natomiast im dłuższe są rekordy tym bardziej zbliżone stają się te czasy czasem nawet lepszy jest ten wykorzystujący funkcje biblioteczne.
