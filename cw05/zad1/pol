@@ -1,0 +1,5 @@
+ls -al | grep 0 | grep drw
+ls -al | grep 0 | grep \-rw
+echo "3rd comm"
+ps x | grep ps
+
